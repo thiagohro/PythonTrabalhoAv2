@@ -1,3 +1,5 @@
+#exercício 03
+
 hora = int(input("Digite a hora: "))
 minuto = int(input("Digite os minutos: "))
 

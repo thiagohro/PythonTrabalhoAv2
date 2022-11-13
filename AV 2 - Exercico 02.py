@@ -1,3 +1,5 @@
+#exercício 02
+
 def soma_imposto(taxaImposto, tCusto):
     calcImposto = (taxaImposto*tCusto)/100
     result = calcImposto+tCusto
